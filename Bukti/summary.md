@@ -11,4 +11,5 @@ Create Categories
 
 ## 2. Product
 Get Product By Id
-![Get Product By ID](https://user-images.githubusercontent.com/99981322/168471003-43e61668-f70f-4779-9d59-0ccd59cd3ebb.png)
+![Get All Product By ID](https://user-images.githubusercontent.com/99981322/168474936-03c40db8-c911-42ba-8a0a-49d2d7528282.png)
+
