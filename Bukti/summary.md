@@ -22,3 +22,7 @@ Login
 ## 4. Transactions
 Get All Transactions
 ![Get All Transaction](https://user-images.githubusercontent.com/99981322/168476843-bf1595c2-ac1a-4b77-9a4d-b5ca40700a2a.png)
+
+## 5. Ratings
+Get Product Ratings
+![Get Product Ratings](https://user-images.githubusercontent.com/99981322/168477410-42a09900-b6db-4f65-9463-35eea5404764.png)
