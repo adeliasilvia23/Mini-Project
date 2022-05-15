@@ -18,3 +18,7 @@ Register
 ![Register](https://user-images.githubusercontent.com/99981322/168476343-bd21ffce-6e12-4ea9-90cc-409f2d089660.png)
 Login
 ![Login](https://user-images.githubusercontent.com/99981322/168476359-bb274d19-82ba-42cb-853f-c47b28eb51c1.png)
+
+## 4. Transactions
+Get All Transactions
+![Get All Transaction](https://user-images.githubusercontent.com/99981322/168476843-bf1595c2-ac1a-4b77-9a4d-b5ca40700a2a.png)
